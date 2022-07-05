@@ -1,0 +1,16 @@
+.form {
+    margin: 30px 50px;
+    max-width: 370px;
+
+    h2 {
+        text-align: left;
+        margin-bottom: 40px;
+    }
+}
+
+.inputs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
